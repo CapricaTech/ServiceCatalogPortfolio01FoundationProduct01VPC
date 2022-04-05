@@ -1,7 +1,7 @@
 {
 	"SchemaVersion": "1.0",
 	"ProductVersionName": "1.0.0",
-	"ProductVersionDescription": "Second version",
+	"ProductVersionDescription": "First version",
 	"ProductType": "CLOUD_FORMATION_TEMPLATE",
 	"Properties": {
 		"TemplateFilePath": "/product.yaml"
